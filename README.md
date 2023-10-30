@@ -3,7 +3,7 @@
 </a>
 
 
-### I'm Tico, also having interest and want to become a front-end developer.
+### I'm Tico, also having interest and want to become a software developer.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
