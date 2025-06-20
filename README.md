@@ -3,7 +3,7 @@
 </a>
 
 
-### I'm Tico, also having interest and want to become a software developer.
+### I'm Gabriel, a software developer in training, focused on learning modern web technologies and building real-world applications.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
